@@ -36,3 +36,8 @@ This project demonstrates how abstraction in object-oriented programming can be 
 
 ```bash
 python shape3d.py
+
+![](Снимок%20экрана%202025-04-27%20164251.png)
+![](Снимок экрана 2025-04-27 164251.png)
+![](Снимок%20экрана%202025-04-27%20164300.png)
+![](Снимок экрана 2025-04-27 164300.png)
